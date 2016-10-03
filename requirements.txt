@@ -1,4 +1,3 @@
-getgauge==0.1.5
-urllib.parse
+getgauge
 requests
 pyhamcrest
